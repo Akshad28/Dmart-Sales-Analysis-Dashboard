@@ -1,5 +1,6 @@
 
 # DMart Sales & Operations Analysis Dashboard
+https://app.powerbi.com/links/06WVhmCVLF?ctid=f4640c5a-eb04-4c2f-a27f-8de5caff562b&pbi_source=linkShare
 
 ## Project Overview
 This project provides a comprehensive analysis of DMart's sales performance, customer demographics, and logistics efficiency. The dashboard transforms raw transactional data into actionable insights, helping stakeholders identify high-performing regions and optimize inventory based on product category demand.
